@@ -24,7 +24,7 @@ def won?
 end
 
 def full?
-  if board[] =
+  if board[] = full_board["X", "O", "X", "O", "X", "X", "O", "X", "O"]
 
 
 
