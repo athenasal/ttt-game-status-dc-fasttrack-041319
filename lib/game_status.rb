@@ -23,7 +23,8 @@ def won?
   end
 end
 
-
+def full?
+  if board[] =
 
 
 
