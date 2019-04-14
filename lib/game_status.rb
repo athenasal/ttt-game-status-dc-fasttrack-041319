@@ -34,7 +34,7 @@ def draw?
   if won? == false && full? == true
     puts true
   end
-else if
+  else if
 
 
 
