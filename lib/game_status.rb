@@ -21,5 +21,6 @@ def won?
 else 
   WIN_COMBINATIONS[]
 end
+end
 
 
