@@ -18,9 +18,9 @@ def won?
   if WIN_COMBINATIONS == false
     puts false 
   end 
-else 
-  WIN_COMBINATIONS[]
-end
+  else 
+    WIN_COMBINATIONS[]
+  end
 end
 
 
