@@ -28,6 +28,8 @@ def full?
       puts true
   end
   else false
+    
+end 
 
 
 
