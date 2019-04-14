@@ -13,3 +13,13 @@ WIN_COMBINATIONS = WIN_COMBINATIONS[
   [6,7,8]
   # the rows 
   ]
+  
+def won? 
+  if WIN_COMBINATIONS == false
+    puts false 
+  end 
+end
+
+if condition {
+  does whatever
+}
