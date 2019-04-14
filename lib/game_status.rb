@@ -19,7 +19,7 @@ def won?
     puts false 
   end 
   else 
-    WIN_COMBINATIONS[]
+   puts WIN_COMBINATIONS[]
   end
 end
 
