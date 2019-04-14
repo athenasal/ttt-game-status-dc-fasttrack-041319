@@ -34,7 +34,11 @@ def draw?
   if won? == false && full? == true
     puts true
   end
-  else if
+  else if won? == false && full? == false
+    puts false 
+  end
+  else if won? == true
+end
 
 
 
