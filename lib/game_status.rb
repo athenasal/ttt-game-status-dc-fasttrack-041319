@@ -50,6 +50,10 @@ end
 
 def winner
   if over? == true 
-    puts WIN_COMBINATIONS[]
+    if WIN_COMBINATIONS[x] == won?
+      puts WIN_COMBINATIONS[x]
+    end
+  end
+end
 
 
