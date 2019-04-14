@@ -38,6 +38,8 @@ def draw?
     puts false 
   end
   else if won? == true
+    puts false
+  end
 end
 
 
