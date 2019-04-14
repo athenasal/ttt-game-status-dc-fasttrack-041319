@@ -30,5 +30,8 @@ def full?
   else false
 end 
 
+def draw?
+  if won? == false && full? == true
+
 
 
