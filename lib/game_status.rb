@@ -26,6 +26,8 @@ end
 def full?
   if board[] = full_board["X", "O", "X", "O", "X", "X", "O", "X", "O"]
       puts true
+  end
+  else false
 
 
 
